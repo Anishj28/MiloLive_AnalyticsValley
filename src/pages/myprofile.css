@@ -1,0 +1,31 @@
+.required:after {
+    content:" *";
+    color: red;
+}
+
+form{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.contain{
+    width: 100%;
+}
+
+.wrapper{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.form1{
+    width: 70%;
+}
+
+.form2{
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+}
+

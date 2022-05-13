@@ -1,0 +1,27 @@
+.navlist{
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+    gap: 20px;
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    padding: 5px;
+    font-weight:600;
+}
+
+.logo{
+    background-image: url("https://drive.google.com/uc?export=view&id=1gB_jxTn2lup2wM24TSBIVe6-cxzlyU-X");
+    background-size: cover;
+    margin-left: 10px;
+    width: 100px;
+    height: 70px;
+    border: none;
+    border-radius: 3px;
+}
+
+h4{
+    padding: 10px;
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
